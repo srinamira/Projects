@@ -8,7 +8,7 @@ Ini adalah daftar kompilasi berbagai topik proyek untuk tujuan pembelajaran. Tuj
 
 | No. | Nama Proyek | Sumber Referensi / Dataset | Status |
 | :---: | :--- | :--- | :---: |
-| **1** | **Productivity Prediction of Garment Employees** | • [garments_worker_productivity](https://doi.org/10.24432/C51S6D) | ⬜<br>⬜<br>⬜<br>⬜ |
+| **1** | **Productivity Prediction of Garment Employees** | • [garments_worker_productivity](https://doi.org/10.24432/C51S6D) | ✅ |
 | **2** | **Fake News detection** | • [Amazon reviews dataset](#)<br>• [Amazon reviews dataset](#)<br>• [Twitter Sentiment analysis - Medium](#)<br>• [Twitter Sentiment analysis - Analytics Vidhya](#) | ⬜ |
 | **3** | **Detecting Parkinson's Disease** | • [Disease detection using XGBoost](#)<br>• [Pyimagesearch - Detecting Parkinson's Disease](#) | ⬜<br>⬜ |
 | **4** | **Color Detection** | • [OpenCV Project](#) | ⬜ |
